@@ -1,0 +1,34 @@
+<resources>
+    <string name="more_details"> -------Our Most Popular Items-------</string>
+    <string name="btn_view_items"> View All Items</string>
+    <string name="login_btn_home">Login</string>
+    <string name="log_btn_reg">Login</string>
+    <string name="login_btn_log">Login</string>
+    <string name="reg_btn_home">Register</string>
+    <string name="app_name">MAD_Mini</string>
+    <string name="Head_title">DREAM MART</string>
+    <string name="under_head_title">Mens Wear</string>
+    <string name="subTitle_custDet">Customer Details-:</string>
+    <string name="fname">First Name *</string>
+    <string name="lname">Last Name *</string>
+    <string name="address">Address *</string>
+    <string name="phone">Phone *</string>
+    <string name="email">Email *</string>
+    <string name="psw">Password *</string>
+    <string name="home_btn">Home</string>
+    <string name="reg_btn">Register</string>
+    <string name="custom_login">Customer Login</string>
+    <string name="email_log">Email</string>
+    <string name="psw_log">Password</string>
+    <string name="btn_ftnpsw">Forgotten Password</string>
+    <string name="subTitle_custnameD">Customer Name</string>
+    <string name="fname_D">First Name</string>
+    <string name="lname_D">Last Name</string>
+    <string name="address_D">Address</string>
+    <string name="phone_D">Phone</string>
+    <string name="email_D">Email</string>
+    <string name="btn_edit">Edit</string>
+    <string name="button2">Delete</string>
+    <string name="button3">Save</string>
+</resources>
+
